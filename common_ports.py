@@ -1,0 +1,23 @@
+services = {
+    7: "echo",
+    20: "ftp-data",
+    21: "ftp",
+    22: "ssh",
+    23: "telnet",
+    25: "smtp",
+    53: "dns",
+    69: "tftp",
+    80: "http",
+    88: "kerberos",
+    102: "iso-tsap",
+    110: "pop3",
+    135: "microsoft epmap",
+    137: "netbios-ns",
+    139: "netbios-ssn",
+    143: "imap4",
+    381: "hp openview", 
+    383: "hp openview",
+    443: "http over ssl",
+    464: "kerberos",
+    # Add more port numbers and service names as needed
+}
